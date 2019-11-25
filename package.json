@@ -35,7 +35,7 @@
     "react-addons-css-transition-group": "^15.6.2",
     "react-center": "^1.1.1",
     "react-chess": "^1.1.0",
-    "react-dom": "^16.4.1",
+    "react-dom": "^16.4.2",
     "react-p5-wrapper": "0.0.4",
     "react-pdf": "^3.0.5",
     "react-router": "^4.3.1",
